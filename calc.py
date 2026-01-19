@@ -25,8 +25,7 @@ elif operation == "/":
     if num2 != 0:
         result = num1 / num2
         print("Result:", num1, "/", num2, "=", result)
-    else:
-        print("Error: Division by zero is not allowed.")
 
 else:
     print("Invalid operation! Please choose +, -, *, or /.")
+
